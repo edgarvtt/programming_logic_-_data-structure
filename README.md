@@ -12,4 +12,4 @@ Foco: Lógica de Programação.
 
 1. OPENEDG - C Courses 
 2. OPENEDG - Javascript Courses.
-3. COMING SOON - https://www.amazon.com.br/Entendendo-Algoritmos-Ilustrado-Programadores-Curiosos
+3. COMING SOON - BOOK Entendendo-Algoritmos-Ilustrado-Programadores-Curiosos
