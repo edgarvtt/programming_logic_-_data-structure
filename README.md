@@ -10,6 +10,7 @@ Foco: Lógica de Programação.
 
 ## Fontes de Estudo.
 
-1. OPENEDG - C Courses 
-2. OPENEDG - Javascript Courses.
-3. COMING SOON - BOOK Entendendo-Algoritmos-Ilustrado-Programadores-Curiosos
+1. UNIVERSITY 
+2. OPENEDG - C Courses 
+3. OPENEDG - Javascript Courses.
+4. COMING SOON - BOOK Entendendo-Algoritmos-Ilustrado-Programadores-Curiosos
