@@ -1,8 +1,12 @@
 ### 🌎
 
-Descrição: Repositorio para colocar desafios de código que pratico \n
-Foco: Lógica de Programação. \n
-Observação: não ultilize os código do the huxley para resposta, use como consulta em caso de duvidas. 
+Descrição: Repositorio para colocar desafios de código que pratico 
+
+### Foco: 
+Lógica de Programação.
+
+### Observação
+não ultilize os código do the huxley para resposta, use como consulta em caso de duvidas. 
 
 ## Fontes de Desafios.
 
